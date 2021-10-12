@@ -1,0 +1,15 @@
+{
+  "owner": "sun00120",
+  "info": [
+    { "id": 1, "name": "bob", "flavour": "vanilla", "age": 43 },
+    { "id": 2, "name": "jisoo", "flavour": "pink", "age": 26 },
+    { "id": 3, "name": "jennie", "flavour": "black", "age": 25 },
+    { "id": 4, "name": "rose", "flavour": "coffee", "age": 24 },
+    { "id": 5, "name": "lisa", "flavour": "cherry", "age": 24 },
+    { "id": 6, "name": "jasper", "flavour": "chocolate", "age": 25 },
+    { "id": 7, "name": "sun", "flavour": "peanut", "age": 26 },
+    { "id": 8, "name": "sana", "flavour": "twice", "age": 24 },
+    { "id": 9, "name": "momo", "flavour": "once", "age": 24 },
+    { "id": 10, "name": "iu", "flavour": "lilac", "age": 28 }
+  ]
+}
